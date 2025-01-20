@@ -17,7 +17,7 @@ O objetivo deste repositório é servir como um guia completo e prático para pr
 
 ## 🚀 Como Contribuir
 
-Contribuições são bem-vindas! Se você deseja contribuir com melhorias, correções ou novas documentações, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Para mais informações, consulte nossa [política de contribuição](CONTRIBUTING.md).
+Contribuições são bem-vindas! Se você deseja contribuir com melhorias, correções ou novas documentações, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Para mais informações, consulte nossa [política de contribuição]([CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426)).
 
 ## 🛠 Tecnologias
 
@@ -28,5 +28,5 @@ Contribuições são bem-vindas! Se você deseja contribuir com melhorias, corre
 ## 🔗 Links Úteis
 
 - [Documentação Oficial do Git](https://git-scm.com/doc)
-- [Documentação Oficial do GitHub](https://docs.github.com/en/github)
+- [Documentação Oficial do GitHub](https://docs.github.com/en)
 - [Digital Innovation One - Git e GitHub](https://web.dio.me/home)
